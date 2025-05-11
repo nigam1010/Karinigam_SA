@@ -10,7 +10,7 @@
 - 🧠 AI + LLM hobbyist, always experimenting with speech recognition and smart automation  
 - 🌐 Full-stack developer with experience in Java, Flask, ASP.NET, and React  
 - 📊 Data analyst with hands-on projects in Apache Superset, Power BI, and SQL  
-- ☕ Runs on coffee (two sugar cubes, always.)
+- ☕ Runs on coffee (two sugar cubes, always. HEH-HEH!)
 
 ---
 
