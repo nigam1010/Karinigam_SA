@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Karinigam</h1>
-<p align="center">☕ A coffee-fueled technophile with a passion for cybersecurity, AI, and IoT</p>
+<p align="center">☕ A coffee-fueled technophile with a passion for cybersecurity, AI, FSD and IoT</p>
 
 ---
 
