@@ -1,64 +1,106 @@
-<h1 align="center">Hey there 👋, I'm Karinigam</h1>
-<p align="center">☕ A coffee-fueled technophile with a passion for cybersecurity, AI, FSD and IoT</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔐 Cybersecurity enthusiast with a love for cryptography and secure app development  
-- 🚘 Builder of multilingual, voice-controlled IoT systems using ESP32 and Python  
-- 🧠 AI + LLM hobbyist, always experimenting with speech recognition and smart automation  
-- 🌐 Full-stack developer with experience in Java, Flask, ASP.NET, and React  
-- 📊 Data analyst with hands-on projects in Apache Superset, Power BI, and SQL  
-- ☕ Runs on coffee (two sugar cubes, always. HEH-HEH!)
-
----
-
-### 📚 Education
-
-🎓 **MCA @ CMR University, Bengaluru**  
-🎓 **BCA @ Sri Siddhartha Institute of Business Management, Tumkur**
-
----
-
-### 🔧 Tech Stack
-
-**Languages:** Python, Java, JavaScript, C#, SQL, MicroPython  
-**Web Dev:** Node.js, ASP.NET, Razor Pages, Flask, Servlets  
-**Databases:** MySQL, SQLite, Amazon RDS  
-**Cloud & DevOps:** AWS, Docker, Kubernetes  
-**AI/ML:** LLMs, YOLOv5, NLP, Tesseract OCR  
-**IoT & Hardware:** ESP32, Arduino, Sensors  
-**Tools:** Power BI, GitHub, Apache Superset, Android Studio
-
----
-
-### 🚀 Featured Projects
-
-- 🗣️ **Multilingual Voice-Controlled Car** – ESP32 + voice recognition + LLMs  
-- 🧳 **Autonomous Luggage Robot** – Follows humans using ultrasonic sensors  
-- 🔐 **Encrypted Chat App** – Real-time chat with AES/RSA encryption  
-- 🚘 **License Plate Recognition** – YOLOv5 + OpenCV real-time detection  
-- 🛍️ **E-Commerce Site** – Java Servlets + MySQL + PayPal integration
-
----
-
-### 📫 Let's Connect
-
-- 📧 [karinigam03@gmail.com](mailto:karinigam03@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/karinigamsa)  
-- 🧠 [GitHub](https://github.com/nigam1010)  
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hey there 👋, I'm Karinigam S A</h1>
+<h3 align="center">Full-Stack Developer | Data Analyst | AI/ML & LLM Engineer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nigam1010&show_icons=true&theme=gruvbox" />
+  🚀 I build production-ready web applications, data pipelines, and intelligent AI-driven systems  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nigam1010&theme=gruvbox" />
+  💡 Skilled in React, Node.js, FastAPI, PostgreSQL, Python, SQL, Power BI, and modern AI frameworks  
 </p>
 
 ---
 
-⭐ *“Building secure, intelligent systems — one coffee cup at a time.”*
+## 🔥 Full-Stack Development (Primary Skillset)
+- End-to-end systems using **React + Node.js / FastAPI**
+- Authentication, APIs, dashboards, and scalable backend architectures  
+- SQL/NoSQL database design, REST APIs, cloud deployments  
+- Experience with Docker, CI/CD, external APIs, and real-time apps  
+
+### ⭐ Featured Full-Stack Projects  
+#### 🟦 **Luxury Automotive E-Commerce Platform**
+React • Node.js • MongoDB • Stripe  
+3D customizer, payments, AI chatbot, service booking
+
+#### 🟧 **Student Admission Portal**
+Node.js • Express • MongoDB  
+REST API with role-based access, validations & dashboard
+
+#### 🟩 **EV Charging Web App**
+Vue.js frontend + API backend for EV station exploration
+
+---
+
+## 📊 Data Analytics (Secondary Skillset)
+- Python analytics (Pandas, NumPy)  
+- Advanced SQL queries  
+- Power BI / Tableau dashboards  
+- Apache Superset for BI reporting  
+- Statistical analysis, ETL pipelines, A/B testing  
+
+### ⭐ Featured Data Projects  
+#### 📌 **Business Intelligence Dashboards**
+Streamlit + React + Plotly • Automated ETL pipelines
+
+#### 📌 **Driver Behavior Analysis (Published Research)**
+Random Forest, SVM, CNN, LSTM  
+International Journal — First Author
+
+#### 📌 **Customer Loyalty Insights**
+Apache Superset dashboards + retention analytics
+
+---
+
+## 🤖 AI, ML & LLM Engineering (Specialization)
+- RAG pipelines: FAISS, embeddings, chunking  
+- LangChain & LangGraph agent development  
+- LLM-powered automation systems  
+- Computer Vision: YOLOv5, OpenCV, OCR  
+- NLP, speech recognition, multilingual systems  
+
+### ⭐ Highlight Projects  
+- **Multi-Agent Assistant (LangGraph + FastAPI + PostgreSQL)**  
+- **RAG Long-Term Memory System**  
+- **Autonomous Blog Generation Agent**  
+- **License Plate Recognition (YOLO + OCR)**  
+- **Multilingual Voice-Controlled IoT Car (ESP32 + LLMs)**
+
+---
+
+## 💼 Tech Stack
+
+### **Frontend:**  
+React.js • Vue.js • Tailwind • Vite • HTML • CSS • TypeScript  
+
+### **Backend:**  
+Node.js • Express.js • FastAPI • Flask • Django  
+
+### **Databases:**  
+PostgreSQL • MySQL • MongoDB • SQLite • Redis • Firebase  
+
+### **Data & Analytics:**  
+Python • Pandas • NumPy • Power BI • Superset • Tableau  
+
+### **AI/ML:**  
+PyTorch • TensorFlow • Scikit-learn • LangChain • LangGraph • FAISS • YOLO • OpenCV  
+
+### **DevOps & Tools:**  
+Docker • GitHub Actions • Linux • AWS • Postman • MQTT • Raspberry Pi • ESP32  
+
+---
+
+## 📈 GitHub Stats  
+<div align="center">
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=nigam1010&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me  
+📩 **karinigam03@gmail.com**  
+🔗 **LinkedIn:** linkedin.com/in/karinigamsa  
+🐙 **GitHub:** github.com/nigam1010  
+
+---
