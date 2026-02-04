@@ -1,5 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Karinigam S A</h1>
 <h3 align="center">Full-Stack Developer | Data Analyst | AI/ML & LLM Engineer</h3>
+📄 [View My Resume](https://github.com/yourusername/karinigam-sa-resume/raw/main/SA_Karinigam_Resume.pdf)
+
 
 <p align="center">
   🚀 I build production-ready web applications, data pipelines, and intelligent AI-driven systems  
