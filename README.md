@@ -98,13 +98,11 @@ Docker • GitHub Actions • Linux • AWS • Postman • MQTT • Raspberry P
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nigam1010&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nigam1010" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact" />
+</p>
 
 ---
 
