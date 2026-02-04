@@ -1,12 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Karinigam S A</h1>
-<h3 align="center">Full-Stack Developer | Data Analyst | AI/ML & LLM Engineer</h3>
-📄 [View My Resume](https://github.com/yourusername/karinigam-sa-resume/raw/main/SA_Karinigam_Resume.pdf)
-
+<h3 align="center">Full-Stack Developer • Data Analyst • AI/ML & LLM Engineer</h3>
 
 <p align="center">
-  🚀 I build production-ready web applications, data pipelines, and intelligent AI-driven systems  
-  <br>
-  💡 Skilled in React, Node.js, FastAPI, PostgreSQL, Python, SQL, Power BI, and modern AI frameworks  
+📄 <a href="https://github.com/nigam1010/karinigam-sa-resume/raw/main/SA_Karinigam_Resume.pdf">View My Resume</a>
+</p>
+
+<p align="center">
+🚀 I build production-ready web applications, data pipelines, and AI-driven systems with real-world impact  
+<br>
+💡 Skilled in React, Node.js, FastAPI, PostgreSQL, Python, SQL, Power BI, and modern AI frameworks 
+<br>
+☕ 23-year-old kid with multiple interests, fueled by curiosity, code, and way too much coffee.
+
 </p>
 
 ---
@@ -19,46 +24,49 @@
 
 ### ⭐ Featured Full-Stack Projects  
 #### 🟦 **Luxury Automotive E-Commerce Platform**
-React • Node.js • MongoDB • Stripe  
+**React • Node.js • MongoDB • Stripe**  
 3D customizer, payments, AI chatbot, service booking
 
 #### 🟧 **Student Admission Portal**
-Node.js • Express • MongoDB  
-REST API with role-based access, validations & dashboard
+**Node.js • Express • MongoDB**  
+REST API with role-based access, validations, and admin dashboards
 
 #### 🟩 **EV Charging Web App**
-Vue.js frontend + API backend for EV station exploration
+**Vue.js • API Backend**  
+EV station discovery and service integration platform
 
 ---
 
 ## 📊 Data Analytics (Secondary Skillset)
-- Python analytics (Pandas, NumPy)  
-- Advanced SQL queries  
+- Python analytics (**Pandas, NumPy**)  
+- Advanced SQL querying  
 - Power BI / Tableau dashboards  
 - Apache Superset for BI reporting  
 - Statistical analysis, ETL pipelines, A/B testing  
 
 ### ⭐ Featured Data Projects  
 #### 📌 **Business Intelligence Dashboards**
-Streamlit + React + Plotly • Automated ETL pipelines
+**Streamlit • React • Plotly**  
+Automated ETL pipelines and executive dashboards
 
 #### 📌 **Driver Behavior Analysis (Published Research)**
-Random Forest, SVM, CNN, LSTM  
-International Journal — First Author
+**Random Forest • SVM • CNN • LSTM**  
+International Journal publication — First Author
 
 #### 📌 **Customer Loyalty Insights**
-Apache Superset dashboards + retention analytics
+**Apache Superset**  
+Retention analytics and visualization dashboards
 
 ---
 
 ## 🤖 AI, ML & LLM Engineering (Specialization)
-- RAG pipelines: FAISS, embeddings, chunking  
-- LangChain & LangGraph agent development  
+- RAG pipelines: **FAISS, embeddings, chunking**
+- **LangChain & LangGraph** agent development  
 - LLM-powered automation systems  
-- Computer Vision: YOLOv5, OpenCV, OCR  
+- Computer Vision: **YOLOv5, OpenCV, OCR**  
 - NLP, speech recognition, multilingual systems  
 
-### ⭐ Highlight Projects  
+### ⭐ Highlight AI Projects
 - **Multi-Agent Assistant (LangGraph + FastAPI + PostgreSQL)**  
 - **RAG Long-Term Memory System**  
 - **Autonomous Blog Generation Agent**  
@@ -69,40 +77,38 @@ Apache Superset dashboards + retention analytics
 
 ## 💼 Tech Stack
 
-### **Frontend:**  
+### **Frontend**
 React.js • Vue.js • Tailwind • Vite • HTML • CSS • TypeScript  
 
-### **Backend:**  
+### **Backend**
 Node.js • Express.js • FastAPI • Flask • Django  
 
-### **Databases:**  
+### **Databases**
 PostgreSQL • MySQL • MongoDB • SQLite • Redis • Firebase  
 
-### **Data & Analytics:**  
+### **Data & Analytics**
 Python • Pandas • NumPy • Power BI • Superset • Tableau  
 
-### **AI/ML:**  
+### **AI / ML**
 PyTorch • TensorFlow • Scikit-learn • LangChain • LangGraph • FAISS • YOLO • OpenCV  
 
-### **DevOps & Tools:**  
+### **DevOps & Tools**
 Docker • GitHub Actions • Linux • AWS • Postman • MQTT • Raspberry Pi • ESP32  
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 <div align="center">
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=nigam1010&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nigam1010&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me  
-📩 **karinigam03@gmail.com**  
-🔗 **LinkedIn:** linkedin.com/in/karinigamsa  
-🐙 **GitHub:** github.com/nigam1010  
-
----
+## 🌐 Connect With Me
+📩 **Email:** karinigam03@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/karinigamsa  
+🐙 **GitHub:** https://github.com/nigam1010
