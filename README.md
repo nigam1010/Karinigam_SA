@@ -97,14 +97,9 @@ Docker • GitHub Actions • Linux • AWS • Postman • MQTT • Raspberry P
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nigam1010" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact" />
-</p>
+## 📈 GitHub Stats <div align="center"> ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=nigam1010&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact&theme=tokyonight) </div>
 
----
+
 
 ## 🌐 Connect With Me
 📩 **Email:** karinigam03@gmail.com  
