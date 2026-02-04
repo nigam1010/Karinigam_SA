@@ -100,9 +100,9 @@ Docker • GitHub Actions • Linux • AWS • Postman • MQTT • Raspberry P
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nigam1010&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=nigam1010&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigam1010&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
