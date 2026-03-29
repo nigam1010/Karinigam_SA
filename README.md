@@ -2,6 +2,7 @@
 <h3 align="center">Full-Stack Developer • Data Analyst • AI/ML & LLM Engineer</h3>
 
 <p align="center">
+<a href="https://portfolio-nine-steel-infpypoq80.vercel.app/">View My Portfolio</a>
 📄 <a href="https://github.com/nigam1010/karinigam-sa-resume/raw/main/SA_Karinigam_Resume.pdf">View My Resume</a>
 </p>
 
