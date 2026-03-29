@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Karinigam S A</h1>
-<h3 align="center">Full-Stack Developer • Data Analyst • AI/ML & LLM Engineer</h3>
+<h3 align="center">Product Manager • Full-Stack Developer • Data Analyst</h3>
 
 <p align="center">
 <a href="https://portfolio-nine-steel-infpypoq80.vercel.app/">View My Portfolio</a>
