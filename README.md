@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7C3AED?style=for-the-badge&logo=notion&logoColor=white)](https://portfolio-nine-steel-infpypoq80.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7C3AED?style=for-the-badge&logo=logoColor=white)](https://portfolio-nine-steel-infpypoq80.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karinigamsa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karinigamsa)
 [![Email](https://img.shields.io/badge/Email-karinigam03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinigam03@gmail.com)
 
